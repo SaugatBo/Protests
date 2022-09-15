@@ -14,13 +14,12 @@ You will find this is far easier than the opposite task of using CSS to cram you
   YOUR MOBILE/BASE STYLES GO HERE
 *********************************************************************/
 *{
-  font-family: Georgia, serif:cursive;
+  font-family: Georgia ;
 }
 
-figcaption { Protests are getting bigger in US }
-
-figcaption {
-  color: grey;}
+figcaption { 
+ Protests are getting bigger in US; color: grey;
+}
 
 footer {
   color: grey;}
